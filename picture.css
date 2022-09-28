@@ -1,0 +1,191 @@
+body {
+    background-color: rgb(12, 14, 13);
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+      
+}
+.column1 {
+  width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 400px;
+}
+header img{
+  width: 100%;
+  height: 200px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.title1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(220, 53, 109);
+}
+.title2 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  font-size: medium;
+}
+.paragraph {
+  font: medium;
+  text-align: center;
+  color: rgb(76, 68, 68);
+}
+footer{
+  background-color: rgb(227, 32, 97);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  justify-content: space-between;
+  color: #fff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  width: 100%;
+  height: fit-content;
+}
+.khung1 {
+  font-size: small;
+  text-align: center;
+  border-left: 1px solid rgb(71, 71, 71);
+  border-right: 1px solid rgb(71, 71, 71) ;
+}
+.khung2 {
+  font-size: small;
+  text-align: center;
+  border-left: 1px solid rgb(71, 71, 71);
+  border-right: 1px solid rgb(71, 71, 71) ;
+}
+.khung3{
+  font-size: small;
+  text-align: center;
+}
+.column2 {
+  width: 300px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.column2 header img{
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.title1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(220, 53, 109);
+}
+.title2 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  font-size: medium;
+}
+.paragraph1 {
+  font: medium;
+  text-align: center;
+  color: rgb(76, 68, 68);
+}
+.column2 footer{
+  background-color: rgb(249, 50, 50);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  justify-content: space-between;
+  color: #fff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.khung4 {
+  font-size: small;
+  text-align: center;
+  border-left: 1px solid rgb(71, 71, 71);
+  border-right: 1px solid rgb(71, 71, 71) ;
+}
+.khung5 {
+  font-size: small;
+  text-align: center;
+  border-left: 1px solid rgb(71, 71, 71);
+  border-right: 1px solid rgb(71, 71, 71) ;
+}
+.khung6{
+  font-size: small;
+  text-align: center;
+}
+
+.column2 {
+  width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.title4 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(197, 39, 39);
+}
+.title5 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  font-size: medium;
+}
+.paragraph1 {
+  font: medium;
+  text-align: center;
+  color: rgb(76, 68, 68);
+}
+.column3 {
+  width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.title6 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(37, 193, 84);
+}
+.title7 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  font-size: medium;
+}
+.column3 footer {
+  background-color: rgb(26, 203, 55);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    justify-content: space-between;
+    color: #fff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+      
+  }
+  .paragraph2 {
+    font: medium;
+    text-align: center;
+    color: rgb(76, 68, 68);
+  }
+  .khung7 {
+    font-size: small;
+    text-align: center;
+    border-left: 1px solid rgb(71, 71, 71);
+    border-right: 1px solid rgb(71, 71, 71) ;
+  }
+  .khung8 {
+    font-size: small;
+    text-align: center;
+    border-left: 1px solid rgb(71, 71, 71);
+    border-right: 1px solid rgb(71, 71, 71) ;
+  }
+  .khung9{
+    font-size: small;
+    text-align: center;
+  }
+  
